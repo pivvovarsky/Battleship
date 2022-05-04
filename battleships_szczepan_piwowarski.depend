@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1581029354 source:d:\codeblocks\projects\battleships_szczepan_piwowarski\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<ctype.h>
+	<string.h>
+	<windows.h>
+
